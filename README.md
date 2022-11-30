@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nihal Alfred 🇮🇳🐣🇬🇧🕴️👨‍👩‍👧‍👦 </h1>
-<h5 align="center"> Senior QA Engineer 🕵️‍♂️ 🤖 | Team Manager 👨‍💼 | QA Chapter Lead 🙌 @lyst 🏢 </h5>
-<h5 align="center">  Husband to my beautiful wife 👩‍❤️‍👨 </h5>
-<h5 align="center">  Dad to my 2 adorable kids 👨‍👧‍👦 </h5>
-<h5 align="center">  Ukulelist to my little Uke 🎸</h5>
+<h4 align="center"> Senior QA Engineer 🕵️‍♂️ 🤖 | Team Manager 👨‍💼 | QA Chapter Lead 🙌 @lyst 🏢 </h4>
+<h4 align="center">  Husband to my beautiful wife 👩‍❤️‍👨 </h4>
+<h4 align="center">  Dad to my 2 adorable kids 👨‍👧‍👦 </h4>
+<h4 align="center">  Ukulelist to my little Uke 🎸</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalalfred&label=Profile%20views&color=0e75b6&style=flat" alt="nihalalfred" /> </p>
 
