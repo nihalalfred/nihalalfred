@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nihal Alfred 🇮🇳🐣🇬🇧🕴️👨‍👩‍👧‍👦 </h1>
+<h1 align="center">Hi 👋, I'm Nihal 🇮🇳🐣🇬🇧🕴️👨‍👩‍👧‍👦 </h1>
 <h4 align="center"> Senior QA Engineer 🕵️‍♂️ 🤖 | Team Manager 👨‍💼 | QA Chapter Lead 🙌 @lyst 🏢 </h4>
 <h4 align="center">  Husband to my beautiful wife 👩‍❤️‍👨 </h4>
 <h4 align="center">  Dad to my 2 adorable kids 👨‍👧‍👦 </h4>
