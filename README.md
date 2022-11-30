@@ -4,6 +4,9 @@
 <h4 align="center">  Dad to my 2 adorable kids 👨‍👧‍👦 </h4>
 <h4 align="center">  Ukulelist to my little Uke 🎸</h4>
 
+
+<img align="right" src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif" alt="Software Testing" style="width:400px;"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalalfred&label=Profile%20views&color=0e75b6&style=flat" alt="nihalalfred" /> </p>
 
 - 🌱 I’m currently learning **Cypress, Postman**
