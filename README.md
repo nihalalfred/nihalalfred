@@ -4,6 +4,18 @@
 <h4 align="center">  Dad to my 2 adorable kids 👨‍👧‍👦 </h4>
 <h4 align="center">  Ukulelist to my little Uke 🎸</h4>
 
+<h4 align="center"> I am a seasoned 🧙‍♂️professional with 9 years of proficient experience as a QA Test Lead 👔 and Automation 🤖 Engineer for varied 🌐 Web, 📱Mobile, and 🖥 Backend applications. </h4>
+
+<h4 align="center"> I'm 😍 passionate about testing which directs me to go beyond what is obvious. </h4>
+
+<h4 align="center"> I have a 🧐 Curious mind which helps me find lots of interesting things to do. </h4>
+
+<h4 align="center"> I firmly believe in teamwork 🙌 and that together everyone achieves more. </h4>
+
+<h4 align="center"> Quality ⏳over speed 🏁 is my top guiding principle. </h4>
+
+<h4 align="center"> I consider myself to have great communication 📣 skills which helps me to quickly notify if something doesn't work as expected. </h4>
+
 
 <img align="right" src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif" alt="Software Testing" style="width:400px;"/>
 
