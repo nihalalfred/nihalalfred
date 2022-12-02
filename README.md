@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihal 🇮🇳🐣🇬🇧🕴️👨‍👩‍👧‍👦 </h1>
 <h4 align="center"> Senior QA Engineer 🕵️‍♂️ 🤖 | Team Manager 👨‍💼 | QA Chapter Lead 🙌 @lyst 🏢 </h4>
-<h4 align="center">  Husband to my beautiful wife 👩‍❤️‍👨 </h4>
-<h4 align="center">  Dad to my 2 adorable kids 👨‍👧‍👦 </h4>
-<h4 align="center">  Ukulelist to my little Uke 🎸</h4>
 
 <h4 align="center"> I am a seasoned 🧙‍♂️professional with 9 years of proficient experience as a QA Test Lead 👔 and Automation 🤖 Engineer for varied 🌐 Web, 📱Mobile, and 🖥 Backend applications. </h4>
 
