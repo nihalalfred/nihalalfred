@@ -14,7 +14,7 @@
 <h4 align="center"> I consider myself to have great communication 📣 skills which helps me to quickly notify if something doesn't work as expected. </h4>
 
 
-<img align="right" src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif" alt="Software Testing" style="width:400px;"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Software Testing" style="width:400px;"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalalfred&label=Profile%20views&color=0e75b6&style=flat" alt="nihalalfred" /> </p>
 
