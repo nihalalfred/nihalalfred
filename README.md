@@ -1,4 +1,4 @@
-[![MasterHead](https://svitla.com/uploads_converted/0/1188-testingg.webp?1538045548](https://www.monticellocg.com/blog/2020/1/31/software-testing-trends-2020)]
+![MasterHead](https://images.squarespace-cdn.com/content/v1/5121ad1ce4b08a7615935933/1580860871093-HEGJC56FT4EWF3TP6FSE/shutterstock_1571138281.jpg?format=2500w)
 <h1 align="center">Hi 👋, I'm Nihal 🇮🇳🐣🇬🇧🕴️👨‍👩‍👧‍👦 </h1>
 <h4 align="center"> Senior QA Engineer 🕵️‍♂️ 🤖 | Team Manager 👨‍💼 | QA Chapter Lead 🙌 @lyst 🏢 </h4>
 
