@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalalfred&label=Profile%20views&color=0e75b6&style=flat" alt="nihalalfred" /> </p>
 
-- 🌱 I’m currently learning **Espresso, Cypress, Postman, Javascript, AWS**
+- 🌱 I’m currently learning **Playwright, Espresso, Cypress, Postman, Javascript, TypeScript & AWS**
 
 - 💬 Ask me about **Software Testing, Mobile Testing, API Testing, Automation, BDD, Bug Management, Leadership, QA Guilds**
 
