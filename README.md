@@ -1,8 +1,8 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/5121ad1ce4b08a7615935933/1580860871093-HEGJC56FT4EWF3TP6FSE/shutterstock_1571138281.jpg?format=2500w)
 <h1 align="center">Hi 👋, I'm Nihal 🇮🇳🐣🇬🇧🕴️👨‍👩‍👧‍👦 </h1>
-<h4 align="center"> Senior QA Engineer 🕵️‍♂️ 🤖 | Team Manager 👨‍💼 | QA Chapter Lead 🙌 @lyst 🏢 </h4>
+<h4 align="center"> Senior QA Engineer 2 🕵️‍♂️ 🤖 | Team Manager 👨‍💼 | QA Chapter Lead 🙌 @lyst 🏢 </h4>
 
-<h4 align="center"> I am a seasoned 🧙‍♂️professional with 9 years of proficient experience as a QA Test Lead 👔 and Automation 🤖 Engineer for varied 🌐 Web, 📱Mobile, and 🖥 Backend applications. </h4>
+<h4 align="center"> I am a seasoned 🧙‍♂️professional with 10 years of proficient experience as a QA Test Lead 👔 and Automation 🤖 Engineer for varied 🌐 Web, 📱Mobile, and 🖥 Backend applications. </h4>
 
 <h4 align="center"> I'm 😍 passionate about testing which directs me to go beyond what is obvious. </h4>
 
