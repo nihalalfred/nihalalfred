@@ -1,39 +1,38 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/5121ad1ce4b08a7615935933/1580860871093-HEGJC56FT4EWF3TP6FSE/shutterstock_1571138281.jpg?format=2500w)
-<h1 align="center">Hi 👋, I'm Nihal 🇮🇳🐣🇬🇧🕴️👨‍👩‍👧‍👦 </h1>
-<h4 align="center"> Senior QA Engineer 2 🕵️‍♂️ 🤖 | Team Manager 👨‍💼 | QA Chapter Lead 🙌 @lyst 🏢 </h4>
+# Hi 👋, I'm Nihal Alfred 🇮🇳🐣🇬🇧🕴️👨‍👩‍👧‍👦 </h1>
+### Senior QA Engineer 2 🕵️‍♂️ 🤖 | Team Manager 👨‍💼 | QA Chapter Lead 🙌 @Lyst 🏢
 
-<h4 align="center"> I am a seasoned 🧙‍♂️professional with 10 years of proficient experience as a QA Test Lead 👔 and Automation 🤖 Engineer for varied 🌐 Web, 📱Mobile, and 🖥 Backend applications. </h4>
+##### _I am an experienced 🧙‍♂️ QA Lead/Manager with over 10 years of expertise in ensuring the quality and reliability of mobile & web applications_.
 
-<h4 align="center"> I'm 😍 passionate about testing which directs me to go beyond what is obvious. </h4>
+* ######  _I have a strong 😍 passion for testing that drives me to explore beyond the obvious_.
 
-<h4 align="center"> I have a 🧐 Curious mind which helps me find lots of interesting things to do. </h4>
+* ###### _My 🧐 inquisitive nature enables me to discover various opportunities for improvement_.
 
-<h4 align="center"> I firmly believe in teamwork 🙌 and that together everyone achieves more. </h4>
+* ###### _I firmly believe in the value of 🙌 teamwork and that collaboration leads to greater success for everyone involved_.
 
-<h4 align="center"> Quality ⏳over speed 🏁 is my top guiding principle. </h4>
+* ###### _My guiding principle is to prioritize ✅ quality over 🏁 speed_.
 
-<h4 align="center"> I consider myself to have great communication 📣 skills which helps me to quickly notify if something doesn't work as expected. </h4>
+* ###### _I possess strong 📣 communication skills, which allow me to promptly address any issues that arise during the testing process_.
 
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Software Testing" style="width:400px;"/>
+<img align="left" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Software Testing" style="width:400px;"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalalfred&label=Profile%20views&color=0e75b6&style=flat" alt="nihalalfred" /> </p>
 
-- 🌱 I’m currently learning **Playwright, Postman, Javascript, TypeScript & AWS**
+- 🌱 I’m currently learning: _Postman, AWS & SQL_
 
-- 💬 Ask me about **Software Testing, Mobile Testing, API Testing, Automation, BDD, Bug Management, Leadership, QA Guilds**
+- 💬 Ask me about: _Software Testing, Automation, Leadership & QA Guilds_
 
-- 📫 How to reach me **nihalalfred@gmail.com**
-
-- ⚡ Fun fact **I can play 🎶 the Ukulele 🎸 & Cook 👨‍🍳 too 😋**
+- ⚡ Fun fact: _I can strum a few tunes on the ukulele 🎶 and whip up some delicious meals in the kitchen too! 👨‍🍳😋_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/testingcraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="testingcraft" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nihalalfred" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihalalfred" height="30" width="40" /></a>
+<a href="mailto:nihalalfred@gmail.com" target="_blank" rel="noreferrer">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Areas of Expertise:</h3>
+## ____________________________________________
 
 #### Programming Languages
 <p align="left">
