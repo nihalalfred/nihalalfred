@@ -1,8 +1,8 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/5121ad1ce4b08a7615935933/1580860871093-HEGJC56FT4EWF3TP6FSE/shutterstock_1571138281.jpg?format=2500w)
 # Hi 👋, I'm Nihal Alfred 🇮🇳🐣🇬🇧🕴️👨‍👩‍👧‍👦 </h1>
-### Senior QA Engineer 2 🕵️‍♂️ 🤖 | Team Manager 👨‍💼 | QA Chapter Lead 🙌 @Lyst 🏢
+### Senior QA Manager (Senior QA Engineer 3) 🕵️‍♂️ 🤖 | Team Manager 👨‍💼 | QA Chapter Lead 🙌 @Lyst 🏢
 
-##### _I am an experienced 🧙‍♂️ QA Lead/Manager with over 10 years of expertise in ensuring the quality and reliability of mobile & web applications_.
+##### _I am an experienced 🧙‍♂️ QA Lead/Manager with over 12 years of expertise in ensuring the quality and reliability of mobile & web applications_.
 
 * ######  _I have a strong 😍 passion for testing that drives me to explore beyond the obvious_.
 
