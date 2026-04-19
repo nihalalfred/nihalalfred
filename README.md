@@ -8,7 +8,7 @@
 
 I’m a QA leader with 12+ years of experience in ensuring the quality and reliability of mobile and web applications.
 
-### My focus is simple:
+### 🕵️‍♂️ My focus:
 
 * Build quality into products, not just test them
 * Enable teams to own testing, not depend on QA
@@ -25,19 +25,11 @@ I’m a QA leader with 12+ years of experience in ensuring the quality and relia
 
 ---
 
-### 🚀 Current focus
-
-* AI in Testing
-* JavaScript & TypeScript for QA automation
-* API testing (Postman)
-
----
-
 ### 💬 Ask me about
 
 * Software Testing
 * Automation Strategy
-* Mobile QA (iOS & Android)
+* Web & Mobile QA (iOS & Android)
 * QA Leadership & Guilds
 
 ---
@@ -50,27 +42,40 @@ I enjoy playing the ukulele 🎶 and cooking 👨‍🍳
 
 ### 🔗 Connect with me
 
-| Platform | Link |
-|----------|------|
-| Twitter  | <a href="https://twitter.com/testingcraft"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a> |
-| LinkedIn | <a href="https://linkedin.com/in/nihalalfred"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a> |
-| Email    | <a href="mailto:nihalalfred@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="30"/></a> |
+[![Twitter](https://img.shields.io/badge/Twitter-@testingcraft-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/testingcraft)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nihal%20Alfred-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/nihalalfred)
+[![Email](https://img.shields.io/badge/Email-nihalalfred%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:nihalalfred@gmail.com)
 
 ---
 
 ### 🛠 Tech Stack
 
-| Category          | Tools |
-|------------------|-------|
-| **Languages**     | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/> |
-| **Automation**    | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/icons/cypress.svg" width="40"/> <img src="https://playwright.dev/img/playwright-logo.svg" width="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/> <img src="https://supreetsolutions.com/wp-content/uploads/2018/05/best-appium-online-trainig-in-hyderabad.png" width="40"/> <img src="https://developer.android.com/images/training/testing/espresso.png" width="40"/> <img src="https://cdn-ifhnn.nitrocdn.com/rYuvfoCHttXoYQwNMxuFRjTecbKZswao/assets/images/source/rev-16ac40e/qawerk.com/wp-content/uploads/2023/08/XCUITest.svg" width="40"/> |
-| **DevOps / Tools**| <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/bitriseio/bitriseio-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> |
-| **Testing / API** | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> <img src="https://proxyman.imgix.net/assets/images/AppIcon_v2.png" width="40"/> <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" width="40"/> |
+#### Languages
+![Swift](https://img.shields.io/badge/Swift-iOS-FA7343?logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-TS-3178C6?logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-JVM-7F52FF?logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-JDK-007396?logo=java&logoColor=white)
 
+#### Automation
+![Cypress](https://img.shields.io/badge/Cypress-E2E-17202C?logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-E2E-2EAD33?logo=playwright&logoColor=white)
+![XCUITest](https://img.shields.io/badge/XCUITest-iOS-000000?logo=apple&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-Android-3DDC84?logo=android&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-Mobile-662D91?logo=appium&logoColor=white)
+
+#### DevOps / Tools
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?logo=githubactions&logoColor=white)
+![Bitrise](https://img.shields.io/badge/Bitrise-Mobile%20CI-683D87?logo=bitrise&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-CI-343434?logo=circleci&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-D24939?logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white)
+
+#### Testing / API
+![Postman](https://img.shields.io/badge/Postman-API-FF6C37?logo=postman&logoColor=white)
+![Proxyman](https://img.shields.io/badge/Proxyman-Network-FF9F00)
+![Charles Proxy](https://img.shields.io/badge/Charles-Proxy-4285F4)
 
 ---
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nihalalfred&layout=compact" />
-</p>
-
